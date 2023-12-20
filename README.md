@@ -1,2 +1,2 @@
-=Adhyayana Rust==
+=Adhyayana Rust=
 Going above or beyond with rust.
